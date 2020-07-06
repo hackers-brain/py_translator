@@ -5,7 +5,6 @@ Translator using Python3
 This is the Very First Version of the tool. lots of work to do.
 
 ## Version
-## Version
 **Py Translator v0.1 (Beta)**
 ## Requirements
 * **[Python3](https://www.python.org/downloads/)**
